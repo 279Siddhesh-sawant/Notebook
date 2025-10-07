@@ -21,6 +21,6 @@ pip install requests-ntlm
 
 python ntlm_passwordspray.py
 
-To remove old venv folder 
+# To remove old venv folder 
 
 rm -rf venv
